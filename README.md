@@ -1,6 +1,6 @@
 # Dio :computer: 
 
-Repositório dedicado para a plataforma DIO aqui ficara todo conteúdo de :
+Repositório dedicado para a plataforma DIO aqui ficara todo conteúdo estudado na plataforma sendo eles :
 
 - Cursos 
 - Bootcamp
