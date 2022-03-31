@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="William"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-03-05 01:09:53 "/>
+        <attribute name="created" value="V2lsbGlhbTtERVNLVE9QLTdBVUtCNjA7MjAyMi0wMy0wNTsiMDE6MDc6MTYgIjsyOTM0"/>
+        <attribute name="edited" value="V2lsbGlhbTtERVNLVE9QLTdBVUtCNjA7MjAyMi0wMy0wNTsiMDE6MDk6NTMgIjsxOzMwNDU="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="multiplo" type="Integer" array="False" size=""/>
+            <assign variable="multiplo" expression="1"/>
+            <while expression="multiplo&lt;10">
+                <output expression="&quot;9 X &quot; &amp; multiplo &amp; &quot; = &quot; &amp; 9*multiplo" newline="True"/>
+                <assign variable="multiplo" expression="multiplo + 1"/>
+            </while>
+        </body>
+    </function>
+</flowgorithm>
